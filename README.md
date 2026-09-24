@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./assets/header.svg" width="100%" alt="Sam — AI/ML Engineer, Full-Stack Developer, Agentic AI Builder">
 </p>
-
 <br/>
 
 ## About Me
